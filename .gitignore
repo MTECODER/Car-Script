@@ -1,5 +1,2 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkoTubeYT/carscript/master/!carscript.lua',true))()
+--https://www.roblox.com/catalog/4435389917/Eltoria-RX750 ------ u can use without t he car but u have to r6 
